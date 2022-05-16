@@ -21,7 +21,9 @@ Binary classification refers to predicting one of two classes and multi-class cl
 
 
 Program to implement binary classification.
+
 Developed by:Pritikha A P
+
 RegisterNumber:  212219040114
 
 ```python3 
